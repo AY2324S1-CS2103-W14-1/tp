@@ -143,6 +143,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/zhanyang01.md",
+      "title": "Ng Zhan Yang's Project Portfolio Page",
+      "headings": {
+        "project-insurahub": "Project: Insurahub"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "tutorials/AddRemark.md",
       "title": "Tutorial: Adding a command",
       "headings": {
