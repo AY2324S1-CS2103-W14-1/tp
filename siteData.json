@@ -40,7 +40,7 @@
       "title": "Developer Guide",
       "headings": {
         "insurahub-developer-guide": "Insurahub Developer Guide",
-        "acknowledgements": "Acknowledgements",
+        "table-of-contents": "Table of contents",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
@@ -53,6 +53,7 @@
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
+        "acknowledgements": "Acknowledgements",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
         "user-stories": "User stories",
