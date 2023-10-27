@@ -51,6 +51,7 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "preferredcontact-feature": "PreferredContact feature",
+        "deletetag-feature": "DeleteTag feature",
         "filtering-by-tag-feature": "Filtering by Tag feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
