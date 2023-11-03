@@ -126,6 +126,7 @@
         "filtering-for-persons-via-tag-filter": "Filtering for Persons via tag : filter",
         "adding-a-policy-to-a-client-addpolicy": "Adding a policy to a client : addPolicy",
         "removing-a-policy-from-a-client-removepolicy": "Removing a policy from a client : removePolicy",
+        "viewing-policy-of-a-client-viewpolicy": "viewing policy of a client: viewPolicy",
         "adding-a-client-preferred-contact-preferredcontact": "Adding a client preferred contact: preferredContact",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
@@ -138,8 +139,6 @@
         "grouping-client-preferred-meeting-locations-grouplocation": "Grouping client preferred meeting locations: groupLocation",
         "change-password-changepassword": "change password: changePassword",
         "viewing-policy-of-a-client-togglemode": "viewing policy of a client: toggleMode",
-        "viewing-policy-of-a-client-removepolicy": "viewing policy of a client: removePolicy",
-        "viewing-policy-of-a-client-viewpolicy": "viewing policy of a client: viewPolicy",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
