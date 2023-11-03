@@ -136,6 +136,10 @@
         "filtering-for-clients-based-on-tags-filter": "Filtering for clients based on tags: filter",
         "storing-documents-of-a-client-file": "Storing documents of a client: file",
         "grouping-client-preferred-meeting-locations-grouplocation": "Grouping client preferred meeting locations: groupLocation",
+        "change-password-changepassword": "change password: changePassword",
+        "viewing-policy-of-a-client-togglemode": "viewing policy of a client: toggleMode",
+        "viewing-policy-of-a-client-removepolicy": "viewing policy of a client: removePolicy",
+        "viewing-policy-of-a-client-viewpolicy": "viewing policy of a client: viewPolicy",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
