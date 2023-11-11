@@ -112,7 +112,6 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
       "headings": {
         "insurahub-user-guide": "Insurahub User Guide",
         "quick-start": "Quick start",
@@ -147,9 +146,9 @@
     },
     {
       "src": "index.md",
-      "title": "",
+      "title": "Insurahub",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "insurahub": "Insurahub"
       },
       "headingKeywords": {}
     },
