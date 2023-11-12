@@ -338,10 +338,10 @@ with(this){return _c('h4',{attrs:{"id":"current-implementation-11"}},[_v("Curren
 with(this){return _c('ol',[_c('li',[_v("The user launches the application and sets the password as \"oldPW1\" before entering InsuraHub with the password.")]),_v(" "),_c('li',[_v("The user wants to change the password and enters the commant "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("changePassword op/oldPW1 np/newPW2")])]),_v(" "),_c('li',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("passwordManager")]),_v(" calls its "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("check")]),_v(" method on the old password given \"oldPW1\" to determine if the current password saved in encoded.txt in the data folder is indeed \"oldPW1\"")]),_v(" "),_c('li',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("passwordManager")]),_v(" detects that the old password is indeed correct and calls its "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("set")]),_v(" method to set the new password as \"newPW2\" by modifying the string saved in encoded.txt in the data folder.")]),_v(" "),_c('li',[_v("The UI will continue displaying the list of clients and a success message is displayed on the UI.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("activity diagram for changePassword Command:\n"),_c('img',{attrs:{"src":"/tp/diagrams/changePasswordActivityDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("activity diagram for changePassword Command:\n"),_c('img',{attrs:{"src":"/tp/diagrams/ChangePasswordActivityDiagram.png","width":"650"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The following sequence diagram shows how the changePassword operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/changePasswordSequenceDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("The following sequence diagram shows how the changePassword operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/ChangePasswordSequenceDiagram.png","width":"650"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"proposed-undo-redo-feature"}},[_v("[Proposed] Undo/redo feature"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#proposed-undo-redo-feature","onclick":"event.stopPropagation()"}})])}
@@ -686,6 +686,6 @@ with(this){return _c('p',[_v("There will be error message returned in the UI whe
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 0:14:04 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 0:14:27 GMT+8]")])])])}
 }];
   
