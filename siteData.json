@@ -79,13 +79,12 @@
         "saving-data": "Saving data",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements",
         "1-add-feature-email-validation": "1. Add Feature - Email Validation",
-        "2-add-feature-phone-number-validation": "2. Add Feature - Phone Number Validation",
-        "3-add-policy-feature-invalid-parameter-and-prefix-name": "3. Add Policy Feature - Invalid parameter and prefix name",
-        "4-add-policy-feature-special-characters-allowed": "4. Add Policy Feature - Special characters allowed",
-        "5-remove-policy-feature-success-message-incorrectly-formatted": "5. Remove Policy Feature - Success message incorrectly formatted",
-        "6-preferred-contact-feature-parameters-must-be-lowercase": "6. Preferred Contact Feature - Parameters must be lowercase",
-        "7-add-policy-feature-end-date-can-be-earlier-than-start-date": "7. Add Policy Feature - End date can be earlier than start date",
-        "8-client-files-is-retained-when-clients-are-deleted-or-edited": "8. Client files is retained when clients are deleted or edited"
+        "2-add-policy-feature-invalid-parameter-and-prefix-name": "2. Add Policy Feature - Invalid parameter and prefix name",
+        "3-add-policy-feature-special-characters-allowed": "3. Add Policy Feature - Special characters allowed",
+        "4-remove-policy-feature-success-message-incorrectly-formatted": "4. Remove Policy Feature - Success message incorrectly formatted",
+        "5-preferred-contact-feature-parameters-must-be-lowercase": "5. Preferred Contact Feature - Parameters must be lowercase",
+        "6-add-policy-feature-end-date-can-be-earlier-than-start-date": "6. Add Policy Feature - End date can be earlier than start date",
+        "7-client-files-is-retained-when-clients-are-deleted-or-edited": "7. Client files is retained when clients are deleted or edited"
       },
       "headingKeywords": {}
     },
