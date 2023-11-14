@@ -161,10 +161,10 @@ with(this){return _c('ol',[_c('li',[_v("phone number")]),_v(" "),_c('li',[_v("em
 with(this){return _c('ol',[_c('li',[_v("The user launches the application and wants to add a preferred contact method for a client, "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Alex Yeoh")]),_v(", who is already stored in the application.")]),_v(" "),_c('li',[_v("The user tries to add a preferred contact method using "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("preferredContact 1")]),_v(".")]),_v(" "),_c('li',[_v("InsuraHub displays a error message stating "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("\"At least one field must be provided\"")]),_v(".")]),_v(" "),_c('li',[_v("The user then tries to add a preferred contact method using "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("preferredContact 1 pc/phone")]),_v(".")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PreferredContactCommandParser")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("AddressBookParser")]),_v(" will check if the command format provided is valid before "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PreferredContactCommand#execute()")]),_v(" is called.")]),_v(" "),_c('li',[_v("InsuraHub will check if the client exists in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("UniquePersonList")]),_v(".")]),_v(" "),_c('li',[_v("If the client exist, the preferred contact method of the client will be updated.")]),_v(" "),_c('li',[_v("The result of the execution of the command will then be used to create a "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CommandResult")]),_v(" object.")]),_v(" "),_c('li',[_v("This object will then be passed to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Logic")]),_v(".")]),_v(" "),_c('li',[_v("The execution will then be over as the preferred contact method will be highlighted and the adding preferred contact command successful message will then be displayed.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The following activity diagram shows how the Preferred Contact operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/PreferredContactActivityDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("The following activity diagram shows how the Preferred Contact operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/PreferredContactActivityDiagram.png","width":"550"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The following sequence diagram shows how the Preferred Contact operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/PreferredContactSequenceDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("The following sequence diagram shows how the Preferred Contact operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/PreferredContactSequenceDiagram.png","width":"550"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
@@ -182,7 +182,7 @@ with(this){return _c('ol',[_c('li',[_v("The user launches the application and wa
 with(this){return _c('p',[_v("The following activity diagram shows how the AddTag operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/AddTagActivityDiagram.png","width":"650"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The following sequence diagram shows how the AddTag operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/AddTagSequenceDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("The following sequence diagram shows how the AddTag operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/AddTagSequenceDiagram.png","width":"550"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
@@ -200,7 +200,7 @@ with(this){return _c('ol',[_c('li',[_v("The user launches the application and wa
 with(this){return _c('p',[_v("The following activity diagram shows how the DeleteTag operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/DeleteTagActivityDiagram.png","width":"650"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The following sequence diagram shows how the DeleteTag operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/DeleteTagSequenceDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("The following sequence diagram shows how the DeleteTag operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/DeleteTagSequenceDiagram.png","width":"550"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
@@ -263,7 +263,7 @@ with(this){return _c('ol',[_c('li',[_v("The user launches the application and wa
 with(this){return _c('p',[_v("Activity diagram for filtering clients based on preferred meeting region:\n"),_c('img',{attrs:{"src":"/tp/diagrams/GroupMeetingActivityDiagram.png","width":"550"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Sequence diagram for filtering clients based on preferred meeting region:\n"),_c('img',{attrs:{"src":"/tp/diagrams/GroupMeetingSequenceDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("Sequence diagram for filtering clients based on preferred meeting region:\n"),_c('img',{attrs:{"src":"/tp/diagrams/GroupMeetingSequenceDiagram.png","width":"550"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
@@ -302,7 +302,7 @@ with(this){return _c('ol',[_c('li',[_v("The user launches the application and wa
 with(this){return _c('p',[_v("The following activity diagram shows how the RemovePolicy operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/RemovePolicyActivityDiagram.png","width":"650"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The following sequence diagram shows how the RemovePolicy operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/RemovePolicySequenceDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("The following sequence diagram shows how the RemovePolicy operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/RemovePolicySequenceDiagram.png","width":"500"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
@@ -338,7 +338,7 @@ with(this){return _c('ol',[_c('li',[_v("The user launches the application and wa
 with(this){return _c('p',[_v("The following activity diagram shows how the Filter Policy Description operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/FilterPolicyActivityDiagram.png"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The following sequence diagram shows how the Filter Policy Description operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/FilterPolicySequenceDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("The following sequence diagram shows how the Filter Policy Description operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/FilterPolicySequenceDiagram.png","width":"500"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
@@ -374,7 +374,7 @@ with(this){return _c('ol',[_c('li',[_v("The user launches the application and se
 with(this){return _c('p',[_v("Activity Diagram for changePassword Command:\n"),_c('img',{attrs:{"src":"/tp/diagrams/ChangePasswordActivityDiagram.png","width":"650"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The following sequence diagram shows how the changePassword operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/ChangePasswordSequenceDiagram.png","width":"650"}})])}
+with(this){return _c('p',[_v("The following sequence diagram shows how the changePassword operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/ChangePasswordSequenceDiagram.png","width":"500"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
@@ -809,6 +809,6 @@ with(this){return _c('h4',{attrs:{"id":"planned-enhancement-7"}},[_v("Planned En
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 11:24:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 11:29:23 GMT+8]")])])])}
 }];
   
