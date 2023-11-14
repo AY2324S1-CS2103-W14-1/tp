@@ -353,7 +353,7 @@ with(this){return _c('h4',{attrs:{"id":"current-implementation-10"}},[_v("Curren
 with(this){return _c('ol',[_c('li',[_v("The user launches the application in the default dark mode and wants to toggle it to light mode and enters the command "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("toggleMode")])]),_v(" "),_c('li',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("execute")]),_v(" method of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("ToggleModeCommand")]),_v(" is called")]),_v(" "),_c('li',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("uiModeManager")]),_v(" calls its "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("getUiMode")]),_v(" method and stores the current "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("uiMode")]),_v(" in a string")]),_v(" "),_c('li',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("uiMode")]),_v(" is detected to be the default value of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("MainWindow.fxml")]),_v(" and is updated to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("LightWindow.fxml")])]),_v(" "),_c('li',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CommandResult")]),_v(" is returned by the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("execute")]),_v(" method and the mode of the UI will be switched to Light Mode on the user's next start up of the application")]),_v(" "),_c('li',[_v("The UI will continue displaying the list of clients and a success message is displayed on the UI")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("The following activity diagram shows how the Toggle Mode operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/ToggleModeActivityDiagram.png"}})])}
+with(this){return _c('p',[_v("The following activity diagram shows how the Toggle Mode operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/ToggleModeActivityDiagram.png","width":"650"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("The following sequence diagram shows how the Toggle Mode operation works:\n"),_c('img',{attrs:{"src":"/tp/diagrams/ToggleModeSequenceDiagram.png","width":"500"}})])}
@@ -809,6 +809,6 @@ with(this){return _c('h4',{attrs:{"id":"planned-enhancement-7"}},[_v("Planned En
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Table Of Contents")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 11:50:34 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 12:09:49 GMT+8]")])])])}
 }];
   
